@@ -1,0 +1,15 @@
+🚀 Update on our Project!
+
+After all the late nights, stress, and endless debugging... it’s done.😅
+
+I’ve successfully added Firebase Authentication to our platform (PropNetix)!
+
+-- Users can now register, log in, and verify their emails.
+-- Certain pages now require login to access, as real platforms do.
+-- But for quick access, you can also continue as a guest. Smooth and simple.
+
+This one took time, but I’m proud of how it turned out. We keep building. 💻🚀
+
+Be honest... are you team "Let me explore first 👀" or "Sign me up ASAP 😏"?
+Drop your side in the comments 😅👇
+

@@ -1834,8 +1834,8 @@
   }
   
   .header-logo img {
-    width: 108px;
-    height: 28px;
+    width: 140px;
+    height: 90px;
   }
   
   /* -------------------------------------------------------------------
@@ -2032,6 +2032,10 @@
   @media screen and (max-width:600px) {
     .header-logo {
       left: 4.8rem;
+    }
+    .header-logo img {
+      width: 80px;
+      height: 60px;
     }
   
     .header-logo::before {
@@ -2746,7 +2750,7 @@
     padding-bottom: 19.2rem;
     min-height: 80rem;
     background-color: #050505;
-    background-image: url(../img/left-side-sermon-index);
+    /* background-image: url(../img/left-side-sermon-index); */
     background-size: 760px 380px;
     color: #ffffff;
     position: relative;
@@ -3380,23 +3384,27 @@
   }
   
   .page-header--about {
-    background-image: url(../img/about-header-bg);
+    background-image: url();
   }
   
   .page-header--contact {
-    background-image: url(../img/contact-header);
+    background-image: url();
+
   }
   
   .page-header--events {
-    background-image: url(../img/event-header-bg);
+    background-image: url();
+
   }
   
   .page-header--connect {
-    background-image: url(../img/connect-header-bg);
+    background-image: url();
+
   }
   
   .page-header--volunteer {
-    background-image: url(../img/volunteer-header-bg);
+    background-image: url();
+
   }
   
   .page-header__content {
